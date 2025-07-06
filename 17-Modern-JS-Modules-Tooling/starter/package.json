@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "startJP": "parcel index.html",
+    "buildProject": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "core-js": "^3.41.0",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
